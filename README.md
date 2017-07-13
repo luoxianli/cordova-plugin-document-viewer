@@ -56,7 +56,7 @@ An [ionic native wrapper][ionic] for the plugin is available.
 From master:
 ```bash
 # ~~ from master branch ~~
-cordova plugin add https://github.com/sitewaerts/cordova-plugin-document-viewer.git
+cordova plugin add https://github.com/luoxianli/cordova-plugin-document-viewer.git
 ```
 from a local folder:
 ```bash
